@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<extension type="file" method="upgrade" version="3.0">
+    <name>Pro2Store - ru-RU</name>
+    <version>1.0.0</version>
+    <creationDate>02/03/2021</creationDate>
+    <author>Pro2Store</author>
+    <authorEmail>info@pro2.store</authorEmail>
+    <authorUrl>https://www.pro2.store</authorUrl>
+    <copyright>Copyright (C) 2021 Pro2Store. All rights reserved.</copyright>
+    <license>GNU General Public License version 2 or later; see LICENSE.txt</license>
+<description>
+        <![CDATA[This is the Russian language package, initially submitted by Igor Generalov and developed and maintained by the Pro2Store Community. To contribute, visit https://github.com/pro2store/russian_translation and make a pull request.
+            Русский язык для компонента магазина Pro2Store (Joomla).
+        ]]>
+    </description>
+    <fileset>
+        <files target="administrator/language/ru-RU">
+            <filename>ru-RU.com_protostore.ini</filename>
+            <filename>ru-RU.com_protostore.sys.ini</filename>
+            </files>
+    </fileset>
+</extension>
